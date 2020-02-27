@@ -4,8 +4,8 @@ body,html{
 }
     
 
-.image_cover {
-    background-image: url(/assets/cspic.jpg);
+body{
+    background-image: url(/assets/IMG/cspic.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
