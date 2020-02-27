@@ -14,9 +14,12 @@ body,html{
     bottom: 0;
     left: 0;
     right: 0;
-    height: 100%;
+    height: auto;
     margin: auto;
     overflow: auto;
+    max-width: auto;
+    
+     
 }
 
 .title-section {
