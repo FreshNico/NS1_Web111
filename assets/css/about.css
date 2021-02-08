@@ -6,10 +6,6 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.resize{
-    width: 260px;
-}
-
 .navbar-name {
     float:left;
     position: absolute;
