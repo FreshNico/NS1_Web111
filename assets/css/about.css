@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body{
-    background-color: red;
+    background-color: rgba(185, 211, 211, 0.342) ;
     margin: 0;
     font-family: 'Roboto', sans-serif;
+}
+
+.resize{
+    width: 260px;
 }
 
 .navbar-name {
